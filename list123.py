@@ -38,4 +38,5 @@ for x n range(0,3):
 print()
 print(threeD[0][0][0])
 print(threeD[1][0][0])	
-print(threeD[0][1][0])				
+print(threeD[0][1][0])
+				
